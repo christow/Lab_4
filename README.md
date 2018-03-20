@@ -6,9 +6,11 @@ As you are now familiar with the content of the main.cpp file please compile it 
 ## Task 1
 Given the main.cpp file in step_1 please create a folder my_step_2 and place each class from the main.cpp in a separate .cpp and .h file. Remember to use preprocessor directives to avoid duplicated inclusion of the file. After separating classes please update main.cpp file to include header files of each class and compile the project using g++ with -c option.
 ## Task 2
-For the set of files in my_step_2 please create a Makefile which will do the compiliation process for you.
+For the set of files in my_step_2 please create a Makefile which will do the compiliation process for you. A link to example Makefile could be found in the howto.txt file in step_2 folder. 
 ## Task 3
-Please copy set of files from step_2 to my_step_3 and create a CMakeFile.txt which will perform the whole compilation process for you
+Please copy set of files from step_2 to my_step_3 and create a CMakeFile.txt which will perform the whole compilation process for you. A link to example CMakeFiles.txt could be found in the howto.txt file in step_3 folder. 
 ## Task 4 
 Plese copy set of files from step_2 to my_step_4 and structer them, so the .cpp files are in /src folder and .h files are in /include folder. After doing that please create CMakeFile.txt to compile the project. Please remember about include directories directive. When compling the project please create a /build folder where all build data will be stored. This will make your project nice and clean.
+
+Comment: one can find the solution of their tasks in relevan folders downloaded from the repository. So please after each task please comapre the content of the folder `my_step_number` with `step_number`.
 
