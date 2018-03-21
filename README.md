@@ -1,5 +1,5 @@
 # Lab_4
-Materials for Laboraotry number 4 NiOSR. Today we are going to work with g++, Make and CMake. To start working  on today's class please clone this repository using the commands learned during the previous class. Today we are having 4 tasks. Before each task you can enter appropriate folder and open howto.txt file which contains the link to the small tutorial which will help you with solving the task.
+Materials for Laboraotry number 4 NiOSR. Today we are going to work with g++, Make and CMake. To start working  on today's class please clone this repository using the commands learned during the previous class. Today we are having 4 tasks. Before each task you can enter appropriate folder and open howto.txt file which contains the link to the small tutorial which will help you with solving the task. Webpages with tutorials are there just for reading giving a hint how to solve the tasks below not for doing them end to end. Please use them as a reference.
 ## Task 0
 Please enter a folder named step_1 and open main.cpp with the text editor of your choice. In the file you can see that there are 3 classes. One is a base class and two are derived classes. 
 As you are now familiar with the content of the main.cpp file please compile it from command line using g++ command.
